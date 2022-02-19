@@ -1,0 +1,19 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 7rem;
+  background-color: hsl(217, 100%, 94%);
+}
+
+#Testimoni {
+  background-color: hsl(217, 100%, 94%);
+}
+
+#HARGA {
+  background-color: #ffffff;
+}
+
+section {
+  padding-top: 5rem;
+}
